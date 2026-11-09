@@ -3,7 +3,7 @@
 📌 Project Overview
 An interactive end-to-end **Power BI Business Intelligence dashboard** designed to evaluate global revenue, cost structures, order volume, and profit margins across countries and product categories.
 
-[Sales & Profit Dashboard](Sales-DashBoard.png)
+![Sales & Profit Dashboard](Sales-DashBoard.png)
 
 🎯 Business Objectives
 * Track overall financial health across key KPIs: **Orders, Revenue, Cost, and Profit**.
