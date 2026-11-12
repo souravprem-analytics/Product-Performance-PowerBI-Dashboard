@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Analytics Dashboard (Power BI)
+# 📊 Product Performance Dashboard (Power BI)
 
 ## 📌 Project Overview
 An interactive end-to-end **Power BI Business Intelligence dashboard** designed to evaluate global revenue, cost structures, order volume, and profit margins across countries and product categories.
